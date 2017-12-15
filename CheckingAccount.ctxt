@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=accountNumber\ ownerFirstName\ ownerLastName\ currentBalance\ minimumBalanceRequired\ hasFreeChecks\ linkedSavingsAccount
+comment0.target=CheckingAccount(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ boolean,\ java.lang.String)
+comment1.params=
+comment1.target=boolean\ getHasFreeChecks()
+comment2.params=
+comment2.target=java.lang.String\ getLinkedSavingsAccount()
+comment3.params=hasFreeChecks
+comment3.target=void\ setHasFreeChecks(boolean)
+comment4.params=linkedSavingsAccount
+comment4.target=void\ setLinkedSavingsAccount(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

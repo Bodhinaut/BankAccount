@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=accountNumber\ ownerFirstName\ ownerLastName\ currentBalance\ minimumBalanceRequired\ annualInterestRate\ numberOfFreeTransactions
+comment0.target=SavingsAccount(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ int)
+comment1.params=
+comment1.target=double\ getAnnualInterestRate()
+comment2.params=
+comment2.target=int\ getNumberOfFreeTransactions()
+comment3.params=annualInterestRate
+comment3.target=void\ setAnnualInterestRate(double)
+comment4.params=numberOfFreeTransactions
+comment4.target=void\ setNumberOfFreeTransactions(int)
+comment5.params=
+comment5.target=double\ payMonthlyInterest()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
